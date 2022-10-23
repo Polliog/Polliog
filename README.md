@@ -1,5 +1,3 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/173569203977060353)](https://discord.com/users/173569203977060353)
-
 <h1 align="center">Hi 👋, I'm Polliog</h1>
 - 🔭 I’m currently working on [VMRacing](https://www.vmracing.it/)
 
@@ -23,4 +21,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=polliog&theme=dark" alt="polliog" /></p>
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/173569203977060353)](https://discord.com/users/173569203977060353)
 
