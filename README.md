@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Polliog</h1>
+
 - 🔭 I’m currently working on [VMRacing](https://www.vmracing.it/)
 
 - 🌱 I’m currently learning **Vue3**
