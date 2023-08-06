@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [VMRacing](https://www.vmracing.it/)
 
-- 🌱 I’m currently learning **Vue3**
+- 🌱 I’m currently learning **Svelte**
 
 - 👨‍💻 All of my projects are available at [https://polliog.hiri.dev/](https://polliog.hiri.dev/)
 
