@@ -2,9 +2,9 @@
 
 - 🔭 I’m currently working on [VMRacing](https://www.vmracing.it/), [HostoCC](https://hosto.cc/)
 
-- 🌱 I’m currently learning **Svelte**
+- 🌱 I’m currently learning **Marketing and CEO Optimization**
 
-- 👨‍💻 All of my projects are available at [https://polliog.hiri.dev/](https://polliog.hiri.dev/)
+- 👨‍💻 All of my projects are available at **New Website Coming Soon**
 
 - 📫 How to reach me **polliog@hiri.dev**
 
