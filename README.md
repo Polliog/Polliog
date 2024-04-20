@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Polliog</h1>
 
-- 🔭 I’m currently working on [VMRacing](https://www.vmracing.it/), [HostoCC](https://hosto.cc/), [VMRacing](https://solture.it/),[VMRacing](https://solfood.it/),
+- 🔭 I’m currently working on [VMRacing](https://www.vmracing.it/), [HostoCC](https://hosto.cc/), [Solture](https://solture.it/), [Solfood](https://solfood.it/),
 
 - 🌱 I’m currently learning **Marketing and CEO Optimization**
 
