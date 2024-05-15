@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [VMRacing](https://www.vmracing.it/), [HostoCC](https://hosto.cc/), [Solture](https://solture.it/), [Solfood](https://solfood.it/),
 
-- 🌱 I’m currently learning **Marketing and CEO Optimization**
+- 🌱 I’m currently learning **Marketing and SEO Optimization**
 
 - 👨‍💻 All of my projects are available at **New Website Coming Soon**
 
