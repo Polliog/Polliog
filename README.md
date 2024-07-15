@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at **New Website Coming Soon**
 
-- 📫 How to reach me **polliog@hiri.dev**
+- 📫 How to reach me [giuseppe@solture.it](mailto:giuseppe@solture.it)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
