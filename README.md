@@ -109,7 +109,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/polliog?label=Follow&style=social)](https://github.com/polliog?tab=followers)
 <div align="center">
   
-![Lelien's GitHub stats](https://github-readme-stats.vercel.app/api?username=polliog&show_icons=true&theme=radical) 
+![Polliog's GitHub stats](https://github-readme-stats.vercel.app/api?username=polliog&show_icons=true&theme=radical) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=polliog&layout=compact&theme=radical) 
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=polliog&theme=nightowl&hide_border=false)
 </div>
