@@ -1,6 +1,6 @@
 # 👾 Polliog's README
 
-- 🔭 I’m currently working on [VMRacing](https://www.vmracing.it/), [HostoCC](https://hosto.cc/), [Solture](https://solture.it/), [Solfood](https://solfood.it/),
+- 🔭 I’m currently working on [VMRacing](https://www.vmracing.it/), [HostoCC](https://hosto.cc/), [Solture](https://solture.it/), [LogWard.dev](https://logward.dev/),
 - 🌱 I’m currently learning **Obtaining ISO 27001 and ISO 9001**
 - 👨‍💻 All of my projects are available at **New Website Coming Soon**
 - 📫 How to reach me [giuseppe@solture.it](mailto:giuseppe@solture.it)
