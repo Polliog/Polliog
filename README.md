@@ -114,12 +114,11 @@
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=polliog&theme=nightowl&hide_border=false)
 </div>
 
----
-<div align="center">
+<!-- <div align="center">
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/173569203977060353)](https://discord.com/users/173569203977060353)
 
-</div>
+</div> -->
 
 
 
